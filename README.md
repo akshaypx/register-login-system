@@ -1,3 +1,5 @@
+# Registration and Login System Using PHP and MySQL 
+
 These files are the login and registration scripts.
 
 Feel free to use them, change, etc.. They are meant for studying purposes, but we don't mind if you use them comercially in your website.
